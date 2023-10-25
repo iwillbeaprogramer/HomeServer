@@ -1,11 +1,62 @@
-from fastapi import Request
+from fastapi import Request,Depends,HTTPException
+from fastapi.security import HTTPAuthorizationCredentials,HTTPBearer
 from fastapi.encoders import jsonable_encoder
 from starlette.concurrency import iterate_in_threadpool
+from .configs import CARTOONPATH
 import ujson
 import time
+import os
 
 
 
+
+################################################################################
+################################################################################
+################################################################################
+##############                                              #####################
+##############     Cartoon 관련 API                         #####################
+##############                                              ####################
+################################################################################
+################################################################################
+################################################################################
+
+async def getCartoonList():
+    foldernames = os.listdir(CARTOONPATH)
+    results = [
+        {
+            "title":foldername,
+            "thumbnail_url":f"http://localhost:8000/cartoon/{foldername}/thumbnail",
+        } for foldername in foldernames
+    ]
+    return results
+
+def getThumbnailPath(title):
+    folder_path = os.path.join(CARTOONPATH,title)
+    images_list = os.listdir(folder_path)
+    return os.path.join(folder_path,images_list[0])
+
+def getContents(title):
+    path = os.path.join(CARTOONPATH,title)
+    imagesList = os.listdir(path)
+    imagesList = [ [title,imageName] for imageName in imagesList] 
+    return imagesList
+    
+def get_one_image(title,imageName):
+    return os.path.join(CARTOONPATH,title,imageName)
+################################################################################
+################################################################################
+################################################################################
+##############                                              #####################
+##############     Token Get하는 Method                     #####################
+##############                                              ####################
+################################################################################
+################################################################################
+################################################################################
+
+def get_access_token(auth_header:HTTPAuthorizationCredentials | None = Depends(HTTPBearer(auto_error=False)))->str:
+    if auth_header is None:
+        raise HTTPException(status_code=401,detail="Not Authorized")
+    return auth_header.credentials
 
 
 

@@ -1,0 +1,2 @@
+from .cartoon import *
+alls = ["*"]

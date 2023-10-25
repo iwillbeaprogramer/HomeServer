@@ -5,16 +5,26 @@ from contextlib import asynccontextmanager
 from fastapi.middleware.cors import CORSMiddleware
 from utils import request_parse,response_parse,make_log
 from apis.login import loginRouter
+from apis.cartoon import cartoonRouter
+
 @asynccontextmanager
 async def lifespan(app:FastAPI):
     logger.add("log/{time:YYYY-MM-DD}.log",format="<green>{time:YYYY-MM-DD HH:mm:ss}</green>\n<blue>{message}</blue>\n",rotation="1 days",enqueue=True)
     yield
 
+
+
 app = FastAPI(
     lifespan=lifespan
 )
 
+
+
 app.include_router(loginRouter)
+app.include_router(cartoonRouter)
+
+
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -24,6 +34,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
+
 @app.middleware("http")
 async def watch_log(request:Request,call_next):
     start_log,start_time = await request_parse(request)
@@ -32,12 +44,6 @@ async def watch_log(request:Request,call_next):
     log = make_log(start_log,end_log,start_time,end_time)
     logger.info(log,)
     return response
-
-
-
-
-
-
 
 
 

@@ -1,0 +1,7170 @@
+2023-10-24 20:18:02
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51587
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:18:02
+	Method : POST
+	여기에서 : 127.0.0.1:51588
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNjUwODJ9.LarFsA4AuV7yEZw_NozkAwHDtsasIy57GuVB289UPmA
+	처리시간 : 0.01602
+
+2023-10-24 20:18:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51588
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:18:05
+	Method : GET
+	여기에서 : 127.0.0.1:51588
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:18:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51588
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:18:05
+	Method : GET
+	여기에서 : 127.0.0.1:51587
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:18:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51596
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00302
+
+2023-10-24 20:18:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51597
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:18:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51598
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:18:05
+	Method : GET
+	여기에서 : 127.0.0.1:51598
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03429
+
+2023-10-24 20:18:06
+	Method : GET
+	여기에서 : 127.0.0.1:51596
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04903
+
+2023-10-24 20:18:06
+	Method : GET
+	여기에서 : 127.0.0.1:51597
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.06453
+
+2023-10-24 20:19:07
+	Method : GET
+	여기에서 : 127.0.0.1:51715
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:19:07
+	Method : GET
+	여기에서 : 127.0.0.1:51715
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 401
+	결과타입 : else
+	결과JSON : 
+		detail : Not Authorized
+	처리시간 : 0.00100
+
+2023-10-24 20:19:17
+	Method : GET
+	여기에서 : 127.0.0.1:51766
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:19:17
+	Method : GET
+	여기에서 : 127.0.0.1:51766
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 401
+	결과타입 : else
+	결과JSON : 
+		detail : Not Authorized
+	처리시간 : 0.00099
+
+2023-10-24 20:19:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:19:48
+	Method : POST
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNjUxODh9.DO0-gKJdF3yS-dSrFyMH2cHXDw6rH_5kt-QVdKHgcvA
+	처리시간 : 0.00786
+
+2023-10-24 20:19:52
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:19:52
+	Method : GET
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:19:52
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:19:52
+	Method : GET
+	여기에서 : 127.0.0.1:51922
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:19:52
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51930
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00102
+
+2023-10-24 20:19:52
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51931
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00204
+
+2023-10-24 20:19:52
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:51932
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00304
+
+2023-10-24 20:19:52
+	Method : GET
+	여기에서 : 127.0.0.1:51932
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 20:19:52
+	Method : GET
+	여기에서 : 127.0.0.1:51930
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01000
+
+2023-10-24 20:19:52
+	Method : GET
+	여기에서 : 127.0.0.1:51931
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01421
+
+2023-10-24 20:20:13
+	Method : GET
+	여기에서 : 127.0.0.1:51923
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:20:13
+	Method : GET
+	여기에서 : 127.0.0.1:51923
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 401
+	결과타입 : else
+	결과JSON : 
+		detail : Not Authorized
+	처리시간 : 0.00099
+
+2023-10-24 20:20:21
+	Method : POST
+	여기에서 : 127.0.0.1:51956
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNjUyMjF9.q7IgTBpuze8edIZ17IuhIZBqI3T4tuZOx5WE5Kc-DIk
+	처리시간 : 0.00637
+
+2023-10-24 20:20:22
+	Method : GET
+	여기에서 : 127.0.0.1:51956
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:20:22
+	Method : GET
+	여기에서 : 127.0.0.1:51956
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:22:24
+	Method : GET
+	여기에서 : 127.0.0.1:52162
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:22:24
+	Method : GET
+	여기에서 : 127.0.0.1:52162
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 401
+	결과타입 : else
+	결과JSON : 
+		detail : Not Authorized
+	처리시간 : 0.0
+
+2023-10-24 20:22:24
+	Method : GET
+	여기에서 : 127.0.0.1:52162
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:22:25
+	Method : GET
+	여기에서 : 127.0.0.1:52162
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 401
+	결과타입 : else
+	결과JSON : 
+		detail : Not Authorized
+	처리시간 : 0.0
+
+2023-10-24 20:23:19
+	Method : POST
+	여기에서 : 127.0.0.1:52222
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNjUzOTl9.rqwmpzb9QKgK2bbNEuddgmBPFr9blCteywLpjRw8OY0
+	처리시간 : 0.02507
+
+2023-10-24 20:23:21
+	Method : GET
+	여기에서 : 127.0.0.1:52222
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:23:21
+	Method : GET
+	여기에서 : 127.0.0.1:52222
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00080
+
+2023-10-24 20:24:20
+	Method : GET
+	여기에서 : 127.0.0.1:52403
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:24:20
+	Method : GET
+	여기에서 : 127.0.0.1:52403
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:24:37
+	Method : GET
+	여기에서 : 127.0.0.1:52414
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:24:37
+	Method : GET
+	여기에서 : 127.0.0.1:52414
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:24:57
+	Method : GET
+	여기에서 : 127.0.0.1:52427
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:24:58
+	Method : GET
+	여기에서 : 127.0.0.1:52427
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:25:04
+	Method : GET
+	여기에서 : 127.0.0.1:52432
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:25:04
+	Method : GET
+	여기에서 : 127.0.0.1:52432
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:25:09
+	Method : GET
+	여기에서 : 127.0.0.1:52432
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:25:09
+	Method : GET
+	여기에서 : 127.0.0.1:52432
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:25:49
+	Method : GET
+	여기에서 : 127.0.0.1:52462
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:25:49
+	Method : GET
+	여기에서 : 127.0.0.1:52462
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:27:22
+	Method : GET
+	여기에서 : 127.0.0.1:52513
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:27:22
+	Method : GET
+	여기에서 : 127.0.0.1:52513
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:27:32
+	Method : GET
+	여기에서 : 127.0.0.1:52518
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:27:32
+	Method : GET
+	여기에서 : 127.0.0.1:52518
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:27:40
+	Method : GET
+	여기에서 : 127.0.0.1:52523
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:27:40
+	Method : GET
+	여기에서 : 127.0.0.1:52523
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:38
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:52680
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:38
+	Method : GET
+	여기에서 : 127.0.0.1:52680
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:38
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:52680
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:38
+	Method : GET
+	여기에서 : 127.0.0.1:52680
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:42
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:52687
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:42
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:52688
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:42
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:52689
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:31:48
+	Method : GET
+	여기에서 : 127.0.0.1:52695
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:31:48
+	Method : GET
+	여기에서 : 127.0.0.1:52695
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:32:41
+	Method : GET
+	여기에서 : 127.0.0.1:52740
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:32:41
+	Method : GET
+	여기에서 : 127.0.0.1:52740
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:38:49
+	Method : GET
+	여기에서 : 127.0.0.1:53029
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:38:49
+	Method : GET
+	여기에서 : 127.0.0.1:53029
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00053
+
+2023-10-24 20:39:09
+	Method : GET
+	여기에서 : 127.0.0.1:53052
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:39:09
+	Method : GET
+	여기에서 : 127.0.0.1:53052
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:39:20
+	Method : GET
+	여기에서 : 127.0.0.1:53065
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:39:21
+	Method : GET
+	여기에서 : 127.0.0.1:53065
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:39:32
+	Method : GET
+	여기에서 : 127.0.0.1:53078
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:39:32
+	Method : GET
+	여기에서 : 127.0.0.1:53078
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:39:55
+	Method : GET
+	여기에서 : 127.0.0.1:53103
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 20:39:56
+	Method : GET
+	여기에서 : 127.0.0.1:53103
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:39:57
+	Method : GET
+	여기에서 : 127.0.0.1:53103
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:39:57
+	Method : GET
+	여기에서 : 127.0.0.1:53103
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:40:52
+	Method : GET
+	여기에서 : 127.0.0.1:53166
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:40:53
+	Method : GET
+	여기에서 : 127.0.0.1:53166
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:41:01
+	Method : GET
+	여기에서 : 127.0.0.1:53175
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:41:01
+	Method : GET
+	여기에서 : 127.0.0.1:53175
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:41:31
+	Method : GET
+	여기에서 : 127.0.0.1:53206
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:41:31
+	Method : GET
+	여기에서 : 127.0.0.1:53206
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:42:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:53245
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:42:06
+	Method : GET
+	여기에서 : 127.0.0.1:53245
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:42:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:53245
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:42:06
+	Method : GET
+	여기에서 : 127.0.0.1:53245
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:42:19
+	Method : GET
+	여기에서 : 127.0.0.1:53261
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:42:19
+	Method : GET
+	여기에서 : 127.0.0.1:53261
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:42:20
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:53266
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:42:20
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:53267
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00138
+
+2023-10-24 20:42:20
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:53268
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00102
+
+2023-10-24 20:42:26
+	Method : GET
+	여기에서 : 127.0.0.1:53278
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:42:26
+	Method : GET
+	여기에서 : 127.0.0.1:53278
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:43:52
+	Method : GET
+	여기에서 : 127.0.0.1:53367
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:43:52
+	Method : GET
+	여기에서 : 127.0.0.1:53367
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:44:45
+	Method : GET
+	여기에서 : 127.0.0.1:53425
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:44:45
+	Method : GET
+	여기에서 : 127.0.0.1:53425
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:45:14
+	Method : GET
+	여기에서 : 127.0.0.1:53459
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:45:14
+	Method : GET
+	여기에서 : 127.0.0.1:53459
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:30
+	Method : GET
+	여기에서 : 127.0.0.1:53619
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:30
+	Method : GET
+	여기에서 : 127.0.0.1:53619
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:34
+	Method : GET
+	여기에서 : 127.0.0.1:53619
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:47:34
+	Method : GET
+	여기에서 : 127.0.0.1:53619
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:40
+	Method : GET
+	여기에서 : 127.0.0.1:53633
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:40
+	Method : GET
+	여기에서 : 127.0.0.1:53633
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:44
+	Method : GET
+	여기에서 : 127.0.0.1:53633
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:44
+	Method : GET
+	여기에서 : 127.0.0.1:53633
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:47:49
+	Method : GET
+	여기에서 : 127.0.0.1:53642
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:47:49
+	Method : GET
+	여기에서 : 127.0.0.1:53642
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:48:11
+	Method : GET
+	여기에서 : 127.0.0.1:53667
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:48:11
+	Method : GET
+	여기에서 : 127.0.0.1:53667
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:48:15
+	Method : GET
+	여기에서 : 127.0.0.1:53667
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:48:15
+	Method : GET
+	여기에서 : 127.0.0.1:53667
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:54:53
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:54117
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:54:53
+	Method : GET
+	여기에서 : 127.0.0.1:54117
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:54:54
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:54117
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:54:54
+	Method : GET
+	여기에서 : 127.0.0.1:54117
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:54:54
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:54122
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:54:54
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:54123
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00194
+
+2023-10-24 20:54:54
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:54124
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00094
+
+2023-10-24 20:55:06
+	Method : GET
+	여기에서 : 127.0.0.1:54140
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:55:06
+	Method : GET
+	여기에서 : 127.0.0.1:54140
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:55:15
+	Method : GET
+	여기에서 : 127.0.0.1:54153
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 20:55:16
+	Method : GET
+	여기에서 : 127.0.0.1:54153
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:55:59
+	Method : GET
+	여기에서 : 127.0.0.1:54235
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:00
+	Method : GET
+	여기에서 : 127.0.0.1:54235
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:56:07
+	Method : GET
+	여기에서 : 127.0.0.1:54245
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:07
+	Method : GET
+	여기에서 : 127.0.0.1:54245
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:32
+	Method : GET
+	여기에서 : 127.0.0.1:54274
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:32
+	Method : GET
+	여기에서 : 127.0.0.1:54274
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:35
+	Method : GET
+	여기에서 : 127.0.0.1:54274
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:35
+	Method : GET
+	여기에서 : 127.0.0.1:54274
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:56:42
+	Method : GET
+	여기에서 : 127.0.0.1:54283
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00039
+
+2023-10-24 20:56:42
+	Method : GET
+	여기에서 : 127.0.0.1:54283
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:57:05
+	Method : GET
+	여기에서 : 127.0.0.1:54310
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:57:05
+	Method : GET
+	여기에서 : 127.0.0.1:54310
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:57:07
+	Method : GET
+	여기에서 : 127.0.0.1:54310
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:57:08
+	Method : GET
+	여기에서 : 127.0.0.1:54310
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:58:04
+	Method : GET
+	여기에서 : 127.0.0.1:54371
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 20:58:04
+	Method : GET
+	여기에서 : 127.0.0.1:54371
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:58:17
+	Method : GET
+	여기에서 : 127.0.0.1:54386
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 20:58:17
+	Method : GET
+	여기에서 : 127.0.0.1:54386
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:02:15
+	Method : GET
+	여기에서 : 127.0.0.1:54632
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 21:02:15
+	Method : GET
+	여기에서 : 127.0.0.1:54632
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:04
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:55071
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 21:07:04
+	Method : GET
+	여기에서 : 127.0.0.1:55071
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:04
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:55071
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:04
+	Method : GET
+	여기에서 : 127.0.0.1:55071
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00751
+
+2023-10-24 21:07:04
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:55078
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:04
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:55079
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:04
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:55080
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:09
+	Method : GET
+	여기에서 : 127.0.0.1:55088
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 21:07:09
+	Method : GET
+	여기에서 : 127.0.0.1:55088
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:44:23
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61605
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:44:23
+	Method : POST
+	여기에서 : 127.0.0.1:61606
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNzM4NjN9.2zAfuK3NPrjVzIsO_5bmcAD-fqCX8XQvG8DIErtuE7Q
+	처리시간 : 0.01161
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61606
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00069
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61606
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61606
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61606
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00300
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00400
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00500
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00600
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00480
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00580
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00680
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02723
+
+2023-10-24 22:44:24
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02846
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01322
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04246
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02022
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01799
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03084
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01362
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02861
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01204
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01004
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01299
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00699
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00999
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02960
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02860
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01299
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.05765
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03560
+
+2023-10-24 22:44:24
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.06665
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Regdic/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Reverse/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00102
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Sena Youtarou/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00372
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Tomohiro Kai/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Yamakumo/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01675
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Yuzuha/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00197
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/그녀의 스마트폰을 들여다 본 것 뿐인데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02373
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/Regdic/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02673
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/Sena Youtarou/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01597
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/Tomohiro Kai/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01400
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/노출/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/Yamakumo/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01526
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/도서관의그녀1~6/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/발칙함/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/여교사 본디지 감금 조교 1/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00300
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/여성섬/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/유부녀의 비밀/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00300
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/일그러진사랑/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/취한후배가솔직해지기까지/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/치크레데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00231
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/Yuzuha/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03419
+
+2023-10-24 22:44:25
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/형형색색/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00339
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/그녀의 스마트폰을 들여다 본 것 뿐인데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03593
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/발칙함/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01221
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/여교사 본디지 감금 조교 1/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01100
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61619
+	여기로 : http://localhost:8000/cartoon/Reverse/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.10604
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/유부녀의 비밀/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01359
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/도서관의그녀1~6/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.05090
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/일그러진사랑/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02159
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/여성섬/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04028
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00699
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61618
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03216
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61615
+	여기로 : http://localhost:8000/cartoon/취한후배가솔직해지기까지/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02409
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61616
+	여기로 : http://localhost:8000/cartoon/치크레데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02909
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61617
+	여기로 : http://localhost:8000/cartoon/노출/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.15362
+
+2023-10-24 22:44:25
+	Method : GET
+	여기에서 : 127.0.0.1:61614
+	여기로 : http://localhost:8000/cartoon/형형색색/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.07179
+
+2023-10-24 22:51:41
+	Method : GET
+	여기에서 : 127.0.0.1:62161
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:51:41
+	Method : GET
+	여기에서 : 127.0.0.1:62161
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:52:24
+	Method : GET
+	여기에서 : 127.0.0.1:62194
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 22:52:24
+	Method : GET
+	여기에서 : 127.0.0.1:62194
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 22:52:24
+	Method : GET
+	여기에서 : 127.0.0.1:62194
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00043
+
+2023-10-24 22:52:24
+	Method : GET
+	여기에서 : 127.0.0.1:62194
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:53:17
+	Method : GET
+	여기에서 : 127.0.0.1:62226
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:53:17
+	Method : GET
+	여기에서 : 127.0.0.1:62226
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:55:33
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62300
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:55:33
+	Method : GET
+	여기에서 : 127.0.0.1:62300
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:55:33
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62300
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:55:33
+	Method : GET
+	여기에서 : 127.0.0.1:62300
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:58:15
+	Method : GET
+	여기에서 : 127.0.0.1:62389
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:58:15
+	Method : GET
+	여기에서 : 127.0.0.1:62389
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:58:36
+	Method : GET
+	여기에서 : 127.0.0.1:62402
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:58:36
+	Method : GET
+	여기에서 : 127.0.0.1:62402
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:59:48
+	Method : GET
+	여기에서 : 127.0.0.1:62444
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:59:48
+	Method : GET
+	여기에서 : 127.0.0.1:62444
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00102
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62452
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62451
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00058
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62453
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62452
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62451
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62454
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62455
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00205
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62453
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00305
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62456
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00294
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62452
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00390
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62451
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00490
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62454
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00725
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62455
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00296
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62453
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00296
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62456
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00396
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62452
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00496
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62454
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00596
+
+2023-10-24 22:59:49
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62451
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00696
+
+2023-10-24 22:59:51
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62444
+	여기로 : http://127.0.0.1:8000/cartoon/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 22:59:51
+	Method : GET
+	여기에서 : 127.0.0.1:62444
+	여기로 : http://127.0.0.1:8000/cartoon/contents
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:00:17
+	Method : GET
+	여기에서 : 127.0.0.1:62473
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:00:17
+	Method : GET
+	여기에서 : 127.0.0.1:62473
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:00:21
+	Method : GET
+	여기에서 : 127.0.0.1:62473
+	여기로 : http://127.0.0.1:8000/cartoon/contents
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:01:34
+	Method : GET
+	여기에서 : 127.0.0.1:62515
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:01:34
+	Method : GET
+	여기에서 : 127.0.0.1:62515
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:01:37
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62515
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:04:24
+	Method : GET
+	여기에서 : 127.0.0.1:62655
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:04:38
+	Method : GET
+	여기에서 : 127.0.0.1:62670
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:04:38
+	Method : GET
+	여기에서 : 127.0.0.1:62670
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:04:47
+	Method : GET
+	여기에서 : 127.0.0.1:62675
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:04:48
+	Method : GET
+	여기에서 : 127.0.0.1:62675
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:04:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62675
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:04:50
+	Method : GET
+	여기에서 : 127.0.0.1:62675
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:05:01
+	Method : GET
+	여기에서 : 127.0.0.1:62684
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:05:02
+	Method : GET
+	여기에서 : 127.0.0.1:62684
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:05:03
+	Method : GET
+	여기에서 : 127.0.0.1:62684
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:05:03
+	Method : GET
+	여기에서 : 127.0.0.1:62684
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:05:05
+	Method : GET
+	여기에서 : 127.0.0.1:62684
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:05:17
+	Method : GET
+	여기에서 : 127.0.0.1:62693
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:05:17
+	Method : GET
+	여기에서 : 127.0.0.1:62693
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:05:20
+	Method : GET
+	여기에서 : 127.0.0.1:62693
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:06:14
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62727
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:06:14
+	Method : GET
+	여기에서 : 127.0.0.1:62727
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:06:14
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62727
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:06:14
+	Method : GET
+	여기에서 : 127.0.0.1:62727
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:21
+	Method : GET
+	여기에서 : 127.0.0.1:62905
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:21
+	Method : GET
+	여기에서 : 127.0.0.1:62905
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:50
+	Method : GET
+	여기에서 : 127.0.0.1:62922
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:50
+	Method : GET
+	여기에서 : 127.0.0.1:62922
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:51
+	Method : GET
+	여기에서 : 127.0.0.1:62922
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:11:52
+	Method : GET
+	여기에서 : 127.0.0.1:62922
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62937
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62938
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62939
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62940
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62941
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62942
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62937
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62938
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:05
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62939
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62940
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00881
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62941
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00300
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62942
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00300
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62937
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00400
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62938
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00500
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62939
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00700
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62940
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00799
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62941
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 23:12:06
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62942
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 23:12:08
+	Method : GET
+	여기에서 : 127.0.0.1:62947
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:08
+	Method : GET
+	여기에서 : 127.0.0.1:62947
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:10
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62947
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:10
+	Method : GET
+	여기에서 : 127.0.0.1:62947
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:35
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:35
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00021
+
+2023-10-24 23:12:36
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00028
+
+2023-10-24 23:12:36
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00028
+
+2023-10-24 23:12:41
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:41
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:44
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:12:44
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:12:46
+	Method : GET
+	여기에서 : 127.0.0.1:62966
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:14:26
+	Method : GET
+	여기에서 : 127.0.0.1:63034
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:14:35
+	Method : GET
+	여기에서 : 127.0.0.1:63042
+	여기로 : http://localhost:8000/cartoon/HAHA/[001.jpg
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:15:14
+	Method : GET
+	여기에서 : 127.0.0.1:63073
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:15:14
+	Method : GET
+	여기에서 : 127.0.0.1:63073
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:15:17
+	Method : GET
+	여기에서 : 127.0.0.1:63073
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:18:39
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63203
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:18:39
+	Method : GET
+	여기에서 : 127.0.0.1:63204
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:18:39
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63204
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:18:39
+	Method : GET
+	여기에서 : 127.0.0.1:63204
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:18:44
+	Method : GET
+	여기에서 : 127.0.0.1:63204
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:19:02
+	Method : GET
+	여기에서 : 127.0.0.1:63220
+	여기로 : http://localhost:8000/cartoon/HAHA/contents/[001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02704
+
+2023-10-24 23:19:02
+	Method : GET
+	여기에서 : 127.0.0.1:63220
+	여기로 : http://localhost:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.00100
+
+2023-10-24 23:19:37
+	Method : GET
+	여기에서 : 127.0.0.1:63244
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:19:38
+	Method : GET
+	여기에서 : 127.0.0.1:63244
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:19:40
+	Method : GET
+	여기에서 : 127.0.0.1:63244
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:20:26
+	Method : GET
+	여기에서 : 127.0.0.1:63298
+	여기로 : http://localhost:8000/cartoon/HAHA/contents/[001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02516
+
+2023-10-24 23:20:26
+	Method : GET
+	여기에서 : 127.0.0.1:63298
+	여기로 : http://localhost:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:21:10
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63358
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:10
+	Method : POST
+	여기에서 : 127.0.0.1:63358
+	여기로 : http://127.0.0.1:8000/login
+	요청JSON : 
+		email : wisixicidi@gmail.com
+		password : 94a07s02d*fg
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+		access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJcdWFlNDBcdWMyMThcdWQ2MDQiLCJleHAiOjE2OTgyNzYwNzB9.Fe1woPgDUQy0r6MrmtFYTHf8aPxXlmQoqscgTC8qSF4
+	처리시간 : 0.01196
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00020
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00240
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00081
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63379
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00512
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00512
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00512
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00512
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00880
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63379
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00880
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00058
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63379
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01618
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01618
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01858
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01958
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03977
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01000
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63379
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02958
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01000
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00900
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00800
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00900
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63376
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02899
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63377
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00902
+
+2023-10-24 23:21:17
+	Method : GET
+	여기에서 : 127.0.0.1:63378
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03002
+
+2023-10-24 23:21:18
+	Method : GET
+	여기에서 : 127.0.0.1:63375
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.05177
+
+2023-10-24 23:21:18
+	Method : GET
+	여기에서 : 127.0.0.1:63379
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02777
+
+2023-10-24 23:21:18
+	Method : GET
+	여기에서 : 127.0.0.1:63380
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.06308
+
+2023-10-24 23:21:20
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:20
+	Method : GET
+	여기에서 : 127.0.0.1:63359
+	여기로 : http://127.0.0.1:8000/cartoon/HAHA/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:41
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63398
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:41
+	Method : GET
+	여기에서 : 127.0.0.1:63399
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:21:55
+	Method : GET
+	여기에서 : 127.0.0.1:63411
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/contents/001_000.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00523
+
+2023-10-24 23:21:55
+	Method : GET
+	여기에서 : 127.0.0.1:63411
+	여기로 : http://localhost:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.00099
+
+2023-10-24 23:22:41
+	Method : GET
+	여기에서 : 127.0.0.1:63586
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:22:52
+	Method : GET
+	여기에서 : 127.0.0.1:63597
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:22:52
+	Method : GET
+	여기에서 : 127.0.0.1:63597
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:22:58
+	Method : GET
+	여기에서 : 127.0.0.1:63602
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:22:58
+	Method : GET
+	여기에서 : 127.0.0.1:63602
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:23:03
+	Method : GET
+	여기에서 : 127.0.0.1:63611
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01552
+
+2023-10-24 23:23:48
+	Method : GET
+	여기에서 : 127.0.0.1:63656
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:23:48
+	Method : GET
+	여기에서 : 127.0.0.1:63656
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:23:53
+	Method : GET
+	여기에서 : 127.0.0.1:63656
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:23:53
+	Method : GET
+	여기에서 : 127.0.0.1:63656
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00384
+
+2023-10-24 23:23:55
+	Method : GET
+	여기에서 : 127.0.0.1:63656
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:23:59
+	Method : GET
+	여기에서 : 127.0.0.1:63666
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/contents/001_000.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02819
+
+2023-10-24 23:24:44
+	Method : GET
+	여기에서 : 127.0.0.1:63734
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:24:44
+	Method : GET
+	여기에서 : 127.0.0.1:63734
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63745
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63744
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63746
+	여기로 : http://localhost:8000/cartoon/Regdic/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63747
+	여기로 : http://localhost:8000/cartoon/Reverse/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63749
+	여기로 : http://localhost:8000/cartoon/Tomohiro Kai/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63748
+	여기로 : http://localhost:8000/cartoon/Sena Youtarou/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63744
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02508
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63748
+	여기로 : http://localhost:8000/cartoon/Sena Youtarou/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63749
+	여기로 : http://localhost:8000/cartoon/Tomohiro Kai/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63745
+	여기로 : http://localhost:8000/cartoon/Puzzle/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04058
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63746
+	여기로 : http://localhost:8000/cartoon/Regdic/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04145
+
+2023-10-24 23:24:48
+	Method : GET
+	여기에서 : 127.0.0.1:63747
+	여기로 : http://localhost:8000/cartoon/Reverse/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04863
+
+2023-10-24 23:24:51
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63752
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01529
+
+2023-10-24 23:24:51
+	Method : GET
+	여기에서 : 127.0.0.1:63752
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:12
+	Method : GET
+	여기에서 : 127.0.0.1:63796
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_007_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01404
+
+2023-10-24 23:25:12
+	Method : GET
+	여기에서 : 127.0.0.1:63796
+	여기로 : http://localhost:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:25:23
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:23
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:27
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Danimaru/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:27
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Danimaru/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:31
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Chobipero/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:31
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Chobipero/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:34
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:34
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01533
+
+2023-10-24 23:25:37
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:37
+	Method : GET
+	여기에서 : 127.0.0.1:63808
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:44
+	Method : GET
+	여기에서 : 127.0.0.1:63898
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:44
+	Method : GET
+	여기에서 : 127.0.0.1:63898
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:25:48
+	Method : GET
+	여기에서 : 127.0.0.1:63898
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:26:12
+	Method : GET
+	여기에서 : 127.0.0.1:63964
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/contents/p001_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:26:12
+	Method : GET
+	여기에서 : 127.0.0.1:63964
+	여기로 : http://localhost:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.00103
+
+2023-10-24 23:27:50
+	Method : GET
+	여기에서 : 127.0.0.1:64099
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:27:50
+	Method : GET
+	여기에서 : 127.0.0.1:64099
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:27:51
+	Method : GET
+	여기에서 : 127.0.0.1:64099
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:27:51
+	Method : GET
+	여기에서 : 127.0.0.1:64099
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:27:59
+	Method : GET
+	여기에서 : 127.0.0.1:64105
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:29:04
+	Method : GET
+	여기에서 : 127.0.0.1:64141
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:29:04
+	Method : GET
+	여기에서 : 127.0.0.1:64141
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 3.14712
+
+2023-10-24 23:29:24
+	Method : GET
+	여기에서 : 127.0.0.1:64156
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:29:24
+	Method : GET
+	여기에서 : 127.0.0.1:64156
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:29:27
+	Method : GET
+	여기에서 : 127.0.0.1:64156
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01541
+
+2023-10-24 23:29:30
+	Method : GET
+	여기에서 : 127.0.0.1:64161
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p001_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03520
+
+2023-10-24 23:29:30
+	Method : GET
+	여기에서 : 127.0.0.1:64161
+	여기로 : http://127.0.0.1:8000/favicon.ico
+	요청JSON : 
+
+	응답코드 : 404
+	결과타입 : else
+	결과JSON : 
+		detail : Not Found
+	처리시간 : 0.0
+
+2023-10-24 23:29:59
+	Method : GET
+	여기에서 : 127.0.0.1:64193
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:29:59
+	Method : GET
+	여기에서 : 127.0.0.1:64193
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:30:02
+	Method : GET
+	여기에서 : 127.0.0.1:64193
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01622
+
+2023-10-24 23:30:02
+	Method : GET
+	여기에서 : 127.0.0.1:64193
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p001_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 23:30:09
+	Method : GET
+	여기에서 : 127.0.0.1:64201
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:30:09
+	Method : GET
+	여기에서 : 127.0.0.1:64201
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:30:53
+	Method : GET
+	여기에서 : 127.0.0.1:64227
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:30:53
+	Method : GET
+	여기에서 : 127.0.0.1:64227
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:30:55
+	Method : GET
+	여기에서 : 127.0.0.1:64227
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01535
+
+2023-10-24 23:31:15
+	Method : GET
+	여기에서 : 127.0.0.1:64242
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:31:15
+	Method : GET
+	여기에서 : 127.0.0.1:64242
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:31:17
+	Method : GET
+	여기에서 : 127.0.0.1:64242
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:31:18
+	Method : GET
+	여기에서 : 127.0.0.1:64242
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p002_002.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00762
+
+2023-10-24 23:33:31
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64362
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:33:31
+	Method : GET
+	여기에서 : 127.0.0.1:64362
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:31
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64362
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:31
+	Method : GET
+	여기에서 : 127.0.0.1:64362
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:33:41
+	Method : GET
+	여기에서 : 127.0.0.1:64415
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:33:41
+	Method : GET
+	여기에서 : 127.0.0.1:64415
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64424
+	여기로 : http://localhost:8000/cartoon/Chobipero/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00099
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64425
+	여기로 : http://localhost:8000/cartoon/Danimaru/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64426
+	여기로 : http://localhost:8000/cartoon/Drill Murata/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64427
+	여기로 : http://localhost:8000/cartoon/HAHA/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64428
+	여기로 : http://localhost:8000/cartoon/Ichimatsu/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64424
+	여기로 : http://localhost:8000/cartoon/Ichimatsu2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64425
+	여기로 : http://localhost:8000/cartoon/Ichimatsu3/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00400
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64426
+	여기로 : http://localhost:8000/cartoon/Inoue Makito/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00500
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64429
+	여기로 : http://localhost:8000/cartoon/Kamakiri/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00299
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64427
+	여기로 : http://localhost:8000/cartoon/Kyockcho/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00399
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64428
+	여기로 : http://localhost:8000/cartoon/Matsukawa/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00500
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64424
+	여기로 : http://localhost:8000/cartoon/MEME50/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00600
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64425
+	여기로 : http://localhost:8000/cartoon/Mikarin/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00700
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64426
+	여기로 : http://localhost:8000/cartoon/Miyabe Kiwi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00900
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64429
+	여기로 : http://localhost:8000/cartoon/Murasame Masumi/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64427
+	여기로 : http://localhost:8000/cartoon/Nagashiro Rouge/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00341
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64428
+	여기로 : http://localhost:8000/cartoon/okumoto yuuta/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00441
+
+2023-10-24 23:33:43
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64424
+	여기로 : http://localhost:8000/cartoon/Okumoto Yuuta2/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00541
+
+2023-10-24 23:33:44
+	Method : GET
+	여기에서 : 127.0.0.1:64415
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/Yamakumo/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/Yuzuha/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64441
+	여기로 : http://localhost:8000/cartoon/그녀의 스마트폰을 들여다 본 것 뿐인데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/노출/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01606
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/도서관의그녀1~6/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01706
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64442
+	여기로 : http://localhost:8000/cartoon/발칙함/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64443
+	여기로 : http://localhost:8000/cartoon/여교사 본디지 감금 조교 1/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64441
+	여기로 : http://localhost:8000/cartoon/여성섬/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64444
+	여기로 : http://localhost:8000/cartoon/유부녀의 비밀/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/일그러진사랑/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64442
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64443
+	여기로 : http://localhost:8000/cartoon/취한후배가솔직해지기까지/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01345
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64441
+	여기로 : http://localhost:8000/cartoon/치크레데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01489
+
+2023-10-24 23:33:50
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64444
+	여기로 : http://localhost:8000/cartoon/형형색색/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01489
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/Yamakumo/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01983
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64444
+	여기로 : http://localhost:8000/cartoon/발칙함/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/Yuzuha/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03149
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/여교사 본디지 감금 조교 1/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01166
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64442
+	여기로 : http://localhost:8000/cartoon/그녀의 스마트폰을 들여다 본 것 뿐인데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01266
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/유부녀의 비밀/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01692
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64441
+	여기로 : http://localhost:8000/cartoon/도서관의그녀1~6/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.02859
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/일그러진사랑/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03305
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/최면 성지도4/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01930
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64444
+	여기로 : http://localhost:8000/cartoon/여성섬/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03623
+
+2023-10-24 23:33:50
+	Method : GET
+	여기에서 : 127.0.0.1:64442
+	여기로 : http://localhost:8000/cartoon/임부/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.04172
+
+2023-10-24 23:33:51
+	Method : GET
+	여기에서 : 127.0.0.1:64439
+	여기로 : http://localhost:8000/cartoon/취한후배가솔직해지기까지/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03372
+
+2023-10-24 23:33:51
+	Method : GET
+	여기에서 : 127.0.0.1:64440
+	여기로 : http://localhost:8000/cartoon/치크레데/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.03372
+
+2023-10-24 23:33:51
+	Method : GET
+	여기에서 : 127.0.0.1:64443
+	여기로 : http://localhost:8000/cartoon/노출/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.12841
+
+2023-10-24 23:33:51
+	Method : GET
+	여기에서 : 127.0.0.1:64441
+	여기로 : http://localhost:8000/cartoon/형형색색/thumbnail
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.05149
+
+2023-10-24 23:33:58
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon
+	요청JSON : 
+
+	응답코드 : 307
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:33:58
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00100
+
+2023-10-24 23:34:01
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:04
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p003_003_.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01576
+
+2023-10-24 23:34:04
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p004_003.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00471
+
+2023-10-24 23:34:05
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p005_004.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.01573
+
+2023-10-24 23:34:06
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p006_005.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00362
+
+2023-10-24 23:34:06
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p007_006.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:06
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p008_007.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:07
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p009_008.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:07
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p010_009.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:08
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p011_010.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:08
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p012_011.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:08
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p013_012.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:09
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p014_013.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:09
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p015_014.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p016_015.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p017_016.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p018_017.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p019_018.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p020_019.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p021_020.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:10
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p022_021.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:11
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p023_022.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:11
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p024_023.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:11
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p025_024.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:11
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p026_025.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:12
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p027_026.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00311
+
+2023-10-24 23:34:12
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p028_027.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:12
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p029_028.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:12
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p030_029.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:12
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu2/contents/p031_030.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:16
+	Method : OPTIONS
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:16
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:16
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/00000_╝÷┴ñ╡╩_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00199
+
+2023-10-24 23:34:17
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/00000_╝÷┴ñ╡╩_081.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00410
+
+2023-10-24 23:34:18
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/00000_╝÷┴ñ╡╩_082.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00388
+
+2023-10-24 23:34:18
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/00000_╝÷┴ñ╡╩_214.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00534
+
+2023-10-24 23:34:18
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/00000_╝÷┴ñ╡╩_217.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00323
+
+2023-10-24 23:34:18
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Miyabe Kiwi/contents/001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00363
+
+2023-10-24 23:34:21
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:21
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_007_001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00200
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_008_002.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00484
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_009_003.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00564
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_010_004.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00404
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_011_005.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00502
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_012_006.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00386
+
+2023-10-24 23:34:22
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_013_007.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00471
+
+2023-10-24 23:34:23
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/00000_╝÷┴ñ╡╩_014_008.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00442
+
+2023-10-24 23:34:23
+	Method : GET
+	여기에서 : 127.0.0.1:64451
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents/001_000a.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00428
+
+2023-10-24 23:34:28
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Ichimatsu3/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:33
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:33
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/001.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00500
+
+2023-10-24 23:34:34
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/002.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00720
+
+2023-10-24 23:34:34
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/003.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:34
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/004.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:34
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/005.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.0
+
+2023-10-24 23:34:35
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/006.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00459
+
+2023-10-24 23:34:35
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/007.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00434
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/008.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00420
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/009.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00384
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/010.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00346
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/011.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00449
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/012.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00290
+
+2023-10-24 23:34:36
+	Method : GET
+	여기에서 : 127.0.0.1:64468
+	여기로 : http://127.0.0.1:8000/cartoon/Drill Murata/contents/013.jpg
+	요청JSON : 
+
+	응답코드 : 200
+	결과타입 : else
+	결과JSON : 
+
+	처리시간 : 0.00481
+

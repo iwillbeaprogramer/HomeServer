@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:front/view/home_page.dart';
 import 'package:get/get.dart';
+import 'package:get_storage/get_storage.dart';
 import 'package:http/http.dart' as http;
 
 class LoginPage extends StatefulWidget {
@@ -16,6 +16,7 @@ class _LoginPageState extends State<LoginPage> {
   late TextEditingController emailController;
   late TextEditingController passwordController;
   late bool showWarning;
+  late GetStorage getStorage;
 
   @override
   void initState() {
@@ -23,6 +24,9 @@ class _LoginPageState extends State<LoginPage> {
     emailController = TextEditingController();
     passwordController = TextEditingController();
     showWarning = false;
+    getStorage = GetStorage();
+    emailController.text = getStorage.read("EMAIL") ?? "";
+    passwordController.text = getStorage.read("PASSWORD") ?? "";
   }
 
   @override
@@ -44,64 +48,85 @@ class _LoginPageState extends State<LoginPage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Flexible(flex: 2,child: Container()),
+              Flexible(child: Container()),
               Flexible(
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Flexible(child: Container()),
-                    Flexible(child: 
-                      Container(
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(20),
-                          color: Theme.of(context).colorScheme.tertiaryContainer,
-                        ),
-                        child: Padding(
-                          padding: const EdgeInsets.all(20.0),
-                          child: Column(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              TextField(
-                                controller: emailController,
-                                decoration: const InputDecoration(
-                                  labelText: "E-Mail",
-                                ),
-                                
+                    Container(
+                      width: 500,
+                      height: 300,
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(20),
+                        color: Theme.of(context).colorScheme.tertiaryContainer,
+                      ),
+                      child: Padding(
+                        padding: const EdgeInsets.all(20.0),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            TextField(
+                              controller: emailController,
+                              decoration: const InputDecoration(
+                                labelText: "E-Mail",
                               ),
-                              TextField(
-                                controller: passwordController,
-                                decoration: const InputDecoration(
-                                  labelText: "Password",
-                                ),
-                                obscureText: true,
+                            ),
+                            TextField(
+                              controller: passwordController,
+                              decoration: const InputDecoration(
+                                labelText: "Password",
                               ),
-                              Padding(
-                                padding: const EdgeInsets.all(8.0),
-                                child: ElevatedButton(
-                                  onPressed: () => loginEvent(),
-                                  child: const Text("Login")
-                                ),
-                              ),
-                              showWarning
-                              ?Expanded(
-                                child: Container(
-                                  decoration: BoxDecoration(
-                                    color: Theme.of(context).colorScheme.errorContainer
+                              obscureText: true,
+                              onSubmitted: (value) async {
+                                await loginEvent();
+                              },
+                            ),
+                            showWarning
+                            ?Row(
+                              children: [
+                                Expanded(
+                                  child: Padding(
+                                    padding: const EdgeInsets.all(5.0),
+                                    child: Container(
+                                      height: 50,                                    
+                                      decoration: BoxDecoration(
+                                        borderRadius: BorderRadius.circular(20),
+                                        color: Theme.of(context).colorScheme.error
+                                      ),
+                                      child: const Column(
+                                        mainAxisAlignment: MainAxisAlignment.center,
+                                        children: [
+                                          Text(
+                                            "Email 또는 Password를 확인해주세요.",
+                                            style: TextStyle(
+                                              color: Colors.white
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
                                   ),
-                                  child: const Text("Email 또는 Password를 확인해주세요."),
                                 ),
-                              )
-                              :const SizedBox(height: 0,)
-                            ],
-                          ),
+                              ],
+                            )
+                            :const SizedBox(height: 50,),
+                            Padding(
+                              padding: const EdgeInsets.all(8.0),
+                              child: ElevatedButton(
+                                onPressed: () => loginEvent(),
+                                child: const Text("Login")
+                              ),
+                            ),
+                          ],
                         ),
-                      )
+                      ),
                     ),
                     Flexible(child: Container()),
                   ],
                 ),
               ),
-              Flexible(flex: 2,child: Container()),
+              Flexible(child: Container()),
             ],
           ),
         ),
@@ -120,11 +145,14 @@ class _LoginPageState extends State<LoginPage> {
       var url = Uri.parse("http://127.0.0.1:8000/login");
       var response = await http.post(url,body: json.encode({"email":email,"password":password}),headers: headers);
       var result = json.decode(utf8.decode(response.bodyBytes));
-      print(result);
-      // Get.to(()=>const Home());
+      getStorage.write("EMAIL",email);
+      getStorage.write("PASSWORD",password);
+      getStorage.write("access_token",result["access_token"]);
+      Get.toNamed("/home");
     } else{
       showWarning = true;
+      setState(() {});
     }
-    setState(() {});
+    
   }
 }

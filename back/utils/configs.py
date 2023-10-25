@@ -9,3 +9,5 @@ DB_USER = "root"
 DB_PASSWORD = "94a07s02d*fg"
 SCHEMA = "HomeServer"
 
+CARTOONPATH = "E:/data/cartoons"
+
